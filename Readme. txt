@@ -1,0 +1,26 @@
+HACKER PRO — Cybersecurity Training Platform
+=============================================
+
+Included
+- index.html: complete responsive learning platform
+- Learning paths: cybersecurity foundations, networking, Linux, web security, blue team, and privacy
+- Three safe, fictional practice simulations
+- Knowledge-check quiz with explanations and points
+- Searchable glossary
+- Local progress tracking using browser localStorage
+
+Run locally
+1. Extract the ZIP.
+2. Open index.html in a modern browser.
+3. No build tools, API keys, database, or paid service are required for this starter version.
+
+Publish with GitHub Pages
+1. Create a new repository (for example, hacker-pro).
+2. Upload index.html and README.txt to the repository root.
+3. In repository Settings > Pages, select deploy from the main branch and root folder.
+4. Save and wait for the Pages URL.
+
+Important limitations
+- This is a front-end starter platform. Progress is saved only in the current browser/device; there are no user accounts, cloud sync, admin dashboard, certificates, or payment features yet.
+- Practice labs are simulations using fictional data. They do not scan, access, or attack real systems.
+- For real security testing, obtain explicit permission and stay within the approved scope.
